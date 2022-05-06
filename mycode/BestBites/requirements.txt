@@ -1,0 +1,17 @@
+celery
+Django
+django-allauth
+django-countries
+django-crispy-forms
+django-rest-swagger
+django-shopping-cart
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+Pillow
+psycopg2
+razorpay
+redis
+virtualenv
+waitress
+whitenoise
